@@ -1,7 +1,7 @@
 [TT Oseledets]: http://spring.inm.ras.ru/osel/wp-content/plugins/wp-publications-archive/openfile.php?action=open&file=28
 
 
-<img src="resources/Locomotive_logo.png">
+<img src="Resources/Locomotive_logo.png">
 
 **Locomotive** is a high-performance deep learning framework for mobile devices, written in Swift. 
 
