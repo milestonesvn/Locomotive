@@ -12,7 +12,7 @@ If you want to learn more about Tensor Trains look at the original paper: Ivan O
 
 
 ## Compatibility
-**Locomotive** uses Metal Framework for GPU computations, therefore it only compatible with the following devices:
+**Locomotive** uses Metal Framework for GPU computations, therefore it is only compatible with the following devices:
 
 **iPhone Devices**
 
